@@ -1,4 +1,4 @@
-# XposedHookAllMethod
-Xposed框架Hook加固应用的所有方法信息
+# XposedHookDemo
+主要参考以下博客，用于hook 加固 app
 
-详情请移步博客：[http://www.wjdiankong.cn](http://www.wjdiankong.cn)
+[http://www.wjdiankong.cn](http://www.wjdiankong.cn)
